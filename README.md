@@ -21,6 +21,7 @@
 # Clone this repository
 git clone https://github.com/nancy1404/youtube-trending-analysis.git
 cd youtube-trending-analysis
+```
 
 # (Optional) Create environment
 python3 -m venv venv
@@ -234,6 +235,7 @@ These reveal:
 
 /src
     utils.py
+```
     preprocessing.py
     models.py
 
