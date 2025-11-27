@@ -311,4 +311,4 @@ Huge thanks to:
 
 - **Google / YouTube** for sponsoring the challenge.
 - **Break Through Tech AI** for the curriculum, mentorship, and infrastructure.
-- **Team Google 1D** members and coaches for feedback on modeling, EDA, and communication.
+- Haziel, my project's coach from Break Through Tech AI team, and Woon Ket, my advisor from Google for feedback on modeling, EDA, and communication.
