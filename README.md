@@ -3,6 +3,16 @@
 
 ---
 
+### 👥 Team Members
+
+| Name                    | GitHub Handle     | Contribution                                                                 |
+|-------------------------|-------------------|------------------------------------------------------------------------------|
+| Nancy (Nakyung) Kwak    | [@nancy1404](https://github.com/nancy1404) | Global pipeline design, EDA, feature engineering, modeling & documentation  |
+
+| **Challenge Advisor:** Woon Ket Wong |  | Haziel Andrade |
+
+---
+
 ## 🎯 Project Highlights
 
 - Analyzed **2.9M+ YouTube Trending records** across **11 countries** using the Kaggle *YouTube Trending Video* dataset.  
